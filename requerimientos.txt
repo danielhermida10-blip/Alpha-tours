@@ -1,0 +1,10 @@
+Danie Felipe Hermida Silva
+Modulo login
+RF 1.1 El sistema debe permitir el inicio de sesión mediante correo electrónico y contraseña.
+RF 1.2 El sistema debe permitir la recuperación de contraseña mediante el correo electrónico registrado.
+RF 1.3 El sistema debe validar el acceso según el rol (Gerente, Empleado o cliente)
+Modulo perfil usuario
+RF 4.1 El sistema debe permitir visualizar la información del perfil del usuario registrado en Alpha Tours.
+RF 4.2 El sistema debe permitir consultar los paquetes turísticos adquiridos, paquetes favoritos, estado de las reservas y la fecha en que se realizó cada compra.
+RF 4.3 El sistema debe permitir cancelar reservas de paquetes turísticos realizadas por el usuario.
+RF 4.4 El sistema debe permitir visualizar la fecha programada del viaje correspondiente a cada paquete turístico adquirido.
