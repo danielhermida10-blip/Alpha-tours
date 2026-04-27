@@ -21,3 +21,26 @@ RF 2.7 El sistema debe permitir visualizar reportes de paquetes turísticos y re
 RF 2.8 El sistema debe permitir analizar la demanda y disponibilidad de los paquetes turísticos.
 RF 2.9 El sistema debe permitir supervisar los movimientos de reservas y cancelaciones.
 RF 2.10 El sistema debe permitir apoyar la toma de decisiones mediante reportes y estadísticas del sistema.
+
+Joel sneyder ruiz peña
+Modelo pqr
+Rf 3.1 El sistema debe permitir registrar peticiones, quejas y reclamos (PQR) por parte de los clientes de Alpha Tours.
+Rf 3.2 El sistema debe permitir consultar el estado de las solicitudes PQR registradas.
+Rf 3.3 El sistema debe permitir gestionar y responder las solicitudes PQR por parte del personal autorizado.
+Rf 3.4 El sistema debe permitir clasificar las solicitudes PQR según su tipo y prioridad.
+Rf 3.1 Para ejecutar el requisito funcional RF 3.1  el usuario tendrá acceso desde la página principal a una sección en el cual podrá comentar sus inquietudes y reclamos sobre la página o algún producto. Si el usuario no se encuentra registrado o tiene cerrada su sesión, se le enviará al módulo login para que llene el formulario o digite su usuario y contraseña
+
+Modelo compra 
+RF 5.1: El sistema debe permitir al usuario iniciar el proceso de compra de servicios o productos de software.
+RF 5.2: El sistema debe permitir seleccionar módulos, licencias o servicios de desarrollo disponibles.
+RF 5.3: El sistema debe permitir agregar módulos o servicios al carrito de compra.
+RF 5.4: El sistema debe permitir modificar la cantidad o tipo de licencias seleccionadas.
+RF 5.5: El sistema debe permitir eliminar módulos o servicios del carrito.
+RF 5.6: El sistema debe calcular el costo total de la compra según los módulos y servicios seleccionados.
+RF 5.7: El sistema debe asociar la compra a un usuario o empresa registrada.
+RF 5.8: El sistema debe permitir seleccionar un método de pago digital.
+RF 5.9: El sistema debe procesar el pago de la compra de manera segura.
+RF 5.10: El sistema debe confirmar la compra y mostrar el resumen de la transacción.
+RF 5.11: El sistema debe generar una factura o comprobante digital.
+RF 5.12: El sistema debe habilitar automáticamente los módulos o servicios adquiridos tras la compra.
+RF 5.13: El sistema debe registrar el historial de compras del usuario.
