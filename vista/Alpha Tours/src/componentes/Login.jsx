@@ -313,6 +313,14 @@ export default function Login({ onLogin }) {
   // RF 1.1 — Login con correo y contraseña
   const handleLogin = () => {
     setError("");
+    const usuariocorrecto="admin"
+    const passwordcorrecto="12345"
+    if(usuariocorrecto===email&&passwordcorrecto===password){
+      alert("elsusarioingresocorrectamente")
+    }
+    else{
+      alert("contraseñaincorrecta")
+    }
     if (!email.trim() || !password.trim()) {
       setError("Por favor completa todos los campos.");
       return;
