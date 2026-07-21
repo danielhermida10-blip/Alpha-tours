@@ -8,8 +8,6 @@ RF 4.1 El sistema debe permitir visualizar la información del perfil del usuari
 RF 4.2 El sistema debe permitir consultar los paquetes turísticos adquiridos, paquetes favoritos, estado de las reservas y la fecha en que se realizó cada compra.
 RF 4.3 El sistema debe permitir cancelar reservas de paquetes turísticos realizadas por el usuario.
 RF 4.4 El sistema debe permitir visualizar la fecha programada del viaje correspondiente a cada paquete turístico adquirido.
-
-Andres Felipe Heredia Castellanos
 Modelo inventario
 RF 2.1 El sistema debe permitir registrar nuevos paquetes turísticos disponibles en Alpha Tours.
 RF 2.2 El sistema debe permitir editar la información de los paquetes turísticos existentes.
@@ -44,3 +42,12 @@ RF 5.10: El sistema debe confirmar la compra y mostrar el resumen de la transacc
 RF 5.11: El sistema debe generar una factura o comprobante digital.
 RF 5.12: El sistema debe habilitar automáticamente los módulos o servicios adquiridos tras la compra.
 RF 5.13: El sistema debe registrar el historial de compras del usuario.
+
+
+
+Mis tres colores son
+
+Primario: #283044
+Secundario: #FFEDE6
+Terciario: #34B5FA
+
